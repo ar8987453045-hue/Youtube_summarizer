@@ -50,6 +50,7 @@ def summarize(text, summarizer):
 
 # ---------- The web page ----------
 st.title("🎬 YouTube Video Summarizer")
+st.write("By~ashish ranjan.....")
 st.write("Paste a YouTube link and get a short summary.")
 
 url = st.text_input("YouTube URL")
