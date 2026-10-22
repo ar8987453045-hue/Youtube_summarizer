@@ -1,0 +1,4 @@
+streamlit
+transformers<5
+torch
+youtube-transcript-api
