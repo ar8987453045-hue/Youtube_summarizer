@@ -200,6 +200,7 @@ def friendly_error(e):
 # THE WEB PAGE
 # ======================================================================
 st.title("🎬 YouTube Video Summarizer")
+st.write("By ~Ashish ranjan.........")
 st.write("Paste a YouTube link and get a short summary. Works with English "
          "videos and with videos in other languages (Hindi, etc.), which are "
          "translated to English first.")
